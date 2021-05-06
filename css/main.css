@@ -1,0 +1,18 @@
+body{
+	background-color: #5F9EA0;
+	text-align: justify;
+}
+
+
+.fejlec {
+	background-color: black;
+	height: 40pt;
+	vertical-align: middle;
+	width: 25%;
+}
+
+#lablec{
+	background-color: #D3D3D3;
+	height: 40pt;
+	vertical-align: left;
+}
